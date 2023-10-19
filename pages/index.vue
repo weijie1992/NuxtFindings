@@ -1,3 +1,4 @@
+
 <template>
-   <NuxtPage />
+   this is index page
 </template>
