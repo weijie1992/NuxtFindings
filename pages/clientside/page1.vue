@@ -1,4 +1,6 @@
 <script setup>
+const thisIsASecretInClientSide = 'thisIsASecretInClientSide'
+console.log("🚀 ~ file: page1.vue:3 ~ thisIsASecretInClientSide:", thisIsASecretInClientSide)
 useHead({
     title: "Title using useHead Composable"
 })
