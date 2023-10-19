@@ -6,4 +6,5 @@ console.log("🚀 ~ file: [[dynamicAndOptional]].vue:4 ~ params:", params)
 
 <template>
 This is dynamic and optional page
+<!-- <ComponentOne/> -->
 </template>
