@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nuxtfindings-dev-221620-authRole",
+      "UnauthRoleArn": "arn:aws:iam::102097092766:role/amplify-nuxtfindings-dev-221620-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::102097092766:role/amplify-nuxtfindings-dev-221620-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-nuxtfindings-dev-221620-deployment",
+      "UnauthRoleName": "amplify-nuxtfindings-dev-221620-unauthRole",
+      "StackName": "amplify-nuxtfindings-dev-221620",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:102097092766:stack/amplify-nuxtfindings-dev-221620/bd80b100-71ae-11ee-bf62-06e2d340af64",
+      "AmplifyAppId": "d3suix3bila9fe"
+    }
+  }
+}
