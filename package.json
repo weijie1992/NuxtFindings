@@ -16,6 +16,8 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
-    "@momwins/mom-design-system-v3": "3.0.21"
+    "@momwins/mom-design-system-v3": "3.0.21",
+    "@momwins/wins-common-form-component": "^2.0.60",
+    "vuex": "4.1.0"
   }
 }
