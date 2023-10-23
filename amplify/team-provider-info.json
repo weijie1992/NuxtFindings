@@ -10,6 +10,14 @@
       "StackName": "amplify-nuxtfindings-dev-221620",
       "StackId": "arn:aws:cloudformation:ap-southeast-1:102097092766:stack/amplify-nuxtfindings-dev-221620/bd80b100-71ae-11ee-bf62-06e2d340af64",
       "AmplifyAppId": "d3suix3bila9fe"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3suix3bila9fe",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
