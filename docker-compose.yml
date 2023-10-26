@@ -1,0 +1,12 @@
+version: "1"
+
+services:
+  wp_apply_form:
+    build: ./
+    labels:
+      app: "wins3-wp-apply-form"
+    container_name: wins3-wp-apply-form
+    volumes:
+      - ./:/app
+    ports:
+      - "3000:3000"
