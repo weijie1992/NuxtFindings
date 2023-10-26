@@ -6,4 +6,6 @@ COPY . .
 
 RUN npm install
 
-CMD ["npm","run","dev"]
+RUN npm build
+
+CMD ["node",".output/server/index.mjs"]
