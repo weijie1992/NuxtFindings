@@ -20,6 +20,9 @@ export default defineNuxtConfig({
     '/ffclient': { ssr: false },
     '/ffApiClient': { ssr: false },
   },
+  experimental: {
+    componentIslands: true
+  },
   runtimeConfig: {
     public: {
       FF1: true,

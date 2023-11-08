@@ -16,6 +16,7 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
+    "markdown-it": "^13.0.2",
     "nuxt-feature-toggle": "^1.2.2"
   }
 }
